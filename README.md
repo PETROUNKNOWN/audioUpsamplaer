@@ -2,7 +2,7 @@
 
 A Python application for upsampling audio files by inserting average amplitude samples between adjacent samples ending up with twice as much samples.
 
-![Screenshot](screenshots/screenshot1.png)
+![Screenshot](assets/ScreenshotAudacitySamples.png)
 
 ## Requirements
 - Python 3.7+
@@ -43,5 +43,7 @@ A Python application for upsampling audio files by inserting average amplitude s
 - [Audacity](https://www.audacityteam.org/) can then be used to increase the sample rate from 44100HZ to 88200Hz which only Lossless formats support. FLAC is suggested.
 
 ## Screenshots
+
+![Screenshot](assets/ScreenshotAppUI.png)
 
 <!-- syndicat -->
